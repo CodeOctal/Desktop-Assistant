@@ -3,6 +3,15 @@ A simple desktop assistant in python with GUI (tkinter)
 
 This project is developed using python 3.6 and python's inbuilt GUI tkinter.
 
+Requirements
+pip install SpeechRecognition
+pip install wolframalpha
+pip install wikipedia
+pip install Pyaudio(requires visual studio build tools)
+pip install pyttsx3
+pip install pyowm
+
+
 PROCESS
 1) Extact all the files from the zip folder.
 2) Open the testing_kinter.py file.
